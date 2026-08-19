@@ -2,6 +2,8 @@
 
 # Core Machine Learning & Deep Learning
 torch>=2.0.0
+torchvision
+
 
 # Scientific Computing & Data Analysis
 numpy>=1.24.0
